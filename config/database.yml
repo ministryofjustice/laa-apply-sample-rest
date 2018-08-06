@@ -1,0 +1,12 @@
+
+
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: sample-rest-development
+  pool: 5
+  username: postgres
+  password: password
+  host: db
+
+
